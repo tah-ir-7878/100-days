@@ -1,0 +1,21 @@
+{
+  "name": "magic-calculater",
+  "version": "1.0.1",
+  "description": "'simple_calculator in typescript end node js'",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "magic-calculater": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammadtahir7878",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
